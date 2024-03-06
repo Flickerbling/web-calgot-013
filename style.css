@@ -199,14 +199,12 @@ body {
 .hal2 {
     font-size: 15px;
     text-align: center;
-    text-shadow: 3px 3px 8px black;
     margin-top: -40px;
 }
 .hal3 {
     font-size: 15px;
     margin-left: 30px;
     color: white;
-    text-shadow: 3px 3px 8px black;
     flex-direction: column;
     padding-right: 50%;
     padding-left: 100px;
@@ -236,12 +234,11 @@ body {
     margin-left: 5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.akhir {
-    text-align: center;
-    background-color: #181326;
+footer {
+    background-color: #15191b;
+    padding: 20px 200px;
+    padding-top: 20px;
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
 }
 html {
     scroll-behavior: smooth;
